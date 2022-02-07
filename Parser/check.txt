@@ -1,0 +1,58 @@
+(
+    int a = 12
+    int b = inc a 3
+    cint c = 1
+    boolean bo = not True
+    cboolean cb = True
+    map m1
+    set[b m1 0 1]
+    bar[b m1 0 1]
+    emp[b m1 0 1]
+    clr[b m1 0 1]
+
+    proc rec [a]
+    (
+
+        a := dec a 1
+        if gt a 0
+        (
+            rec [a]
+        )
+    )
+
+    rec [a]
+
+    proc fib [n]
+    (
+        if lt n 3
+        (
+            n:=1
+        )
+        else
+        (
+            int a = dec n 1
+            int b = dec n 2
+            n:= inc fib[a] fib[b]
+        )
+    )
+
+    int fi = 10
+
+    fib [fi]
+
+    if gt b 0
+    (
+        b := 10
+    )
+    else
+    (
+        int f = inc a rec[b]
+    )
+
+
+    while or lt b a gt a b do
+    (
+        a:= dec a c
+        a:= dec a cb
+    )
+)

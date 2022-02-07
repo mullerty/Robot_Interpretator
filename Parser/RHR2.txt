@@ -1,0 +1,33 @@
+(
+
+    while step do step
+
+    while not lt look 0 do
+    (
+        right
+        if not step
+        (
+            left
+            if not step
+            (
+                left
+                if not step
+                (
+                    left
+                    step
+                )
+            )
+        )
+    )
+
+    int s = look
+    if gt s -999
+    (
+        while lt s 1 do
+        (
+            step
+            s:= inc s 1
+        )
+    )
+
+)

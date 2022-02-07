@@ -1,0 +1,19 @@
+(
+proc fib [n]
+    (
+        if lt n 3
+        (
+            n:=1
+        )
+        else
+        (
+            int a = dec n 1
+            int b = dec n 2
+            n:= inc fib[a] fib[b]
+        )
+    )
+
+    int fi = 10
+
+    fib [fi]
+)

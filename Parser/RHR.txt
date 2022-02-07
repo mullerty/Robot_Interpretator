@@ -1,0 +1,34 @@
+(
+
+while step do step
+
+while not lt look 0 do
+(
+    while step do step
+    right
+    step
+    if not lt look 0
+    (
+        if not gt look 0
+        (
+            back
+            step
+            left
+            step
+            if not lt look 0
+            (
+                if not gt look 0
+                (
+                    back
+                    step
+                    left
+                )
+            )
+        )
+    )
+)
+
+while gt look -999 do step
+step
+
+)

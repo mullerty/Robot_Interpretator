@@ -1,0 +1,25 @@
+(
+iNt n = 123
+BooleAn b = not oR faLse true
+Proc name[number as]
+(
+    number := iNc 12 2
+    while 0 do
+    (
+        if right
+        else
+        (
+
+            back
+        )
+        as := dEc number 1
+    )
+)
+mane[num sa]
+bar[sd sa 12 22]
+set[sd sa 12 22]
+clr[sd sa 12 22]
+emp[sd sa 12 22]
+step
+step back
+)
